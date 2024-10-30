@@ -141,7 +141,9 @@ The workshop was attended by 16 in-person participants and several online contri
 The participants represented a diverse set of organisations, including universities (Karolinska Institutet, Leiden University,
 Maastricht University, Palacký University Olomouc, University of Eastern Finland, and University of Birmingham), as well as research institutes (TNO, EU-JRC, RIVM). Additionally, representatives from regulatory bodies and various ELIXIR Platforms participated.
 Furthermore, in preparation to the workshop to set the stage, several ongoing toxicology research projects and initiatives were contacted to identify data-related challenges, and these were also represented at the workshop. These included VHP4Safety (vhp4safety.nl) [@VHP4Safety2024],
-PARC (eu-parc.eu), RISK-HUNT3R (risk-hunt3r.eu), NanoSafetyCluster (nanosafetycluster.eu), HARMLESS (harmless-project.eu), SbD4Nano (sbd4nano.eu), and PINK (pink-project.eu). This mix of projects contributed to the focus of the workshop by bringing in ongoing data challenges and solutions, helping to guide discussions on FAIRification in toxicology.
+PARC (eu-parc.eu), RISK-HUNT3R (risk-hunt3r.eu), NanoSafetyCluster (nanosafetycluster.eu), HARMLESS (harmless-project.eu), SbD4Nano (sbd4nano.eu), PINK (pink-project.eu),
+and SysBioToP-Moving.
+This mix of projects contributed to the focus of the workshop by bringing in ongoing data challenges and solutions, helping to guide discussions on FAIRification in toxicology.
 
 Geographically, the workshop representd expertise from across Europe, with attendees from The Netherlands, Finland, Italy, the UK, Germany, Czechia, and Sweden. This broad representation underscored the European interest in FAIRification in toxicological research and highlighted the collabortive approach of the INTOXICOM workshop series.
 
@@ -371,9 +373,12 @@ NON-ACADEMIC TOXICOLOGY/RISK ASSESSMENT IS CONSERVATIVE AND MATTERS WILL ONLY CH
 ## Funding
 
 This workshop was funded by the ELIXIR Europe INTOXICOM grant (Grant No. NL-2023-INTOXICOM).
-Participants acknowledge funding from PARC (Grant agreement No. 101057014 and UKRI Grant No. 1752317),
-WorldFAIR (Grant agreement No. 101058393 and UKRI Grant No. 1831977 ) and
-PINK (Grant agreement No. 101137809) and UKRI Grant No. 10097944).
+Participants acknowledge funding from
+PARC (Grant agreement No. 101057014 and UKRI Grant No. 1752317),
+WorldFAIR (Grant agreement No. 101058393 and UKRI Grant No. 1831977),
+PINK (Grant agreement No. 101137809) and UKRI Grant No. 10097944),
+RISKHUNT3R (Grant agreement No. 964537),
+and SysBioTop-Moving grant from ZonMw (Grant greement No. 20190702211652).
 The VHP4Safety project is funded by the Netherlands Research Council (NWO) (Grant No. NWA-ORC 1292.19.272).
 
 ## References

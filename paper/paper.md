@@ -124,7 +124,7 @@ and researchers working with adverse outcome pathways (AOPs).
 
 The agenda comprised presentations and interactive sessions to apply FAIR solutions specifically within toxicology research. The workshop was divided into two main parts. The first part focused on the application of FAIR solutions to toxicology databases
 and datasets. This included discussions on using compact identifiers to reference specific records in databases in narratives such as project deliverables, e.g.
-in the European Partnership for the Assessment of Risks from Chemicals (PARC, eu-parc.eu) [@citesForInformation:PARC].
+in the European Partnership for the Assessment of Risks from Chemicals (PARC, [eu-parc.eu](https://eu-parc.eu)) [@citesForInformation:PARC].
 
 The second part addressed the FAIRification of AOPs in the AOP-Wiki, aiming to improve their findability and accessibility. Continuing on the efforts of the Modelling the Pathogenesis of COVID-19 Using the Adverse Output Pathway Framework (CIAO) project
 (ciao-covid.net), that assessed the FAIRness of
@@ -142,12 +142,15 @@ This report describes the outcomes of the workshop, provides links to presentati
 The workshop welcomed 16 in-person participants and several online contributors, with two presenters and three additional attendees joining remotely. 
 The participants represented a diverse set of organisations, including universities (Karolinska Institutet, Leiden University,
 Maastricht University, Palacký University Olomouc, University of Eastern Finland, and University of Birmingham), as well as research institutes (TNO, EU-JRC, RIVM). Additionally, representatives from regulatory bodies and various ELIXIR Platforms participated.
-Furthermore, in preparation to the workshop to set the stage, multiple ongoing toxicology research projects and initiatives were contacted to identify data-related challenges, and these were also represented at the workshop. These included VHP4Safety (vhp4safety.nl) [@VHP4Safety2024],
-PARC, RISK-HUNT3R (risk-hunt3r.eu), NanoSafetyCluster (nanosafetycluster.eu), HARMLESS (harmless-project.eu), SbD4Nano (sbd4nano.eu), PINK (pink-project.eu),
+Furthermore, in preparation to the workshop to set the stage, multiple ongoing toxicology research projects and initiatives were contacted to identify data-related challenges, and these were also represented at the workshop. These included VHP4Safety
+([vhp4safety.nl](https://vhp4safety.nl)) [@VHP4Safety2024],
+PARC, RISK-HUNT3R ([risk-hunt3r.eu](https://risk-hunt3r.eu)), NanoSafetyCluster ([nanosafetycluster.eu](https://nanosafetycluster.eu)),
+HARMLESS ([harmless-project.eu](https://harmless-project.eu)), SbD4Nano
+([sbd4nano.eu](https://sbd4nano.eu)), PINK ([pink-project.eu](https://pink-project.eu)),
 and SysBioToP-Moving.
 This mix of projects contributed to the focus of the workshop by bringing in ongoing data challenges and solutions, helping to guide discussions on FAIRification in toxicology.
 
-Geographically, the workshop representd expertise from across Europe, with attendees from The Netherlands, Finland, Italy, the UK, Germany, Czechia, and Sweden. This broad representation underscored the European interest in FAIRification in toxicological research and highlighted the collabortive approach of the INTOXICOM workshop series.
+Geographically, the workshop represented expertise from across Europe, with attendees from The Netherlands, Finland, Italy, the UK, Germany, Czechia, and Sweden. This broad representation underscored the European interest in FAIRification in toxicological research and highlighted the collaborative approach of the INTOXICOM workshop series.
 
 ## Presentations
 
@@ -180,7 +183,7 @@ discussion that guided the creation of document on using compact identifiers to 
 This part was followed by an interactive, hands-on session around FAIRification recipes in
 the ELIXIR FAIR Cookbook [@RoccaSerra2023]. The selection of data challenges and topics for this session was selected based upon topics identified from the research projects and communities mentioned above, as well as during the preparatory webinar.
 
-The third and last topic of the first day was a session on the FAIRification of AOPs, expanding on earlier work by the CIAO project ([https://www.ciao-covid.net/](ciao-covid.net)). Similar to the identified data challenges, the discussion during this session was also based on data challenges around the use and development of AOPs, identified by research projects and communities. This session fed directly into the continued development of the AOP-Wiki, highlighting efforts to make AOPs more findable and interoperable.
+The third and last topic of the first day was a session on the FAIRification of AOPs, expanding on earlier work by the CIAO project ([ciao-covid.net](https://www.ciao-covid.net)). Similar to the identified data challenges, the discussion during this session was also based on data challenges around the use and development of AOPs, identified by research projects and communities. This session fed directly into the continued development of the AOP-Wiki, highlighting efforts to make AOPs more findable and interoperable.
 
 The second day started with a session on the ELIXIR Data Platform and the
 FAIRsharing Toxicology Collection. This collection is an ongoing collaboration
@@ -190,7 +193,7 @@ boosted by a FAIRsharing Community Champion project. An interactive questionnair
 The main focus of the second day was a hands-on session on developing FAIR Implementation Profiles (FIPs). The FIP is a socio-technical approach to drive FAIR convergence by encouraging communities to publicly declare the FAIR Enabling Resources (FERs) [@fer_def] they use to implement the FAIR principles.
 Comparison of FIPs between communities can guide members of those communities to widely used FERs thereby avoiding duplicated efforts and improving interoperability [@Schultes2020].
 A good way to start with FIPs is using the FIP mini questionnaire [@fip_mini], because it allows a quick(er) inventory of resources without having to formally describe those resources as FERs.
-The formal way to create a FIP is with the FIP wizard (<https://fip-wizard.ds-wizard.org/>), a DSWizard-based tool was introduced
+The formal way to create a FIP is with the FIP wizard ([fip-wizard.ds-wizard.org](https://fip-wizard.ds-wizard.org/)), a DSWizard-based tool was introduced
 to the participants has been used by the WorldFAIR
 project for ready-for-modelling datasets for nanoinformatics [@citesForInformation:WFFIP1] and
 for datasets [@citesForInformation:WFFIP2; @Magagna2022].
@@ -206,7 +209,7 @@ One of the goals of the workshop was to promote the use of compact identifiers
 in project reporting. Compact identifiers are short but meaningful references
 to identifiers for entities like proteins, genes, metabolites, and nanomaterials.
 A draft guidance document has been under development and is available at
-[https://github.com/egonw/compact-ids-in-reports](https://github.com/egonw/compact-ids-in-reports).
+[github.com/egonw/compact-ids-in-reports](https://github.com/egonw/compact-ids-in-reports).
 
 ## FAIR standards and challenges
 
@@ -242,7 +245,7 @@ The second challenge specifically listed is the adoption of identifiers in
 toxicology datasets. Better metadata of datasets with supporting unique identifiers is
 essential. It could be solved with compact identifiers in descriptions or
 identifiers as keywords. The NanoCommons community made progress with
-this ([https://nanocommons.github.io/datasets/](https://nanocommons.github.io/datasets/)),
+this ([nanocommons.github.io/datasets/](https://nanocommons.github.io/datasets/)),
 but annotating the data still needs to be done manually.
 
 Regarding the community standards, reasons why data cannot be reused include
@@ -277,21 +280,21 @@ Following an introduction to the FAIR Cookbook concepts, the workshop participan
 
 ### Adding KE Component annotations in AOP-Wiki
 
-One group, consisting of Clemens Wittwehr, Penny Nymark, Thomas Exner, and Marvin Martens, drafted an initial version of a recipe intended to guide AOP developers in annotating Key Event (KE) Components [@Ives2017] in line with the guidelines outlined on p. 28 of [@OECD2018],
+One group, consisting of Clemens Wittwehr, Penny Nymark, Thomas Exner, and Marvin Martens, drafted an initial version of a recipe intended to guide AOP developers in annotating Key Event (KE) Components [@Ives2017] in line with the guidelines outlined on p.&nbsp;28 of [@OECD2018],
 under "KE Components and Biological Context"
-([https://hackmd.io/\@WBu-yMi5R62T6i7YA3RGVA/BJtnqIQVR](https://hackmd.io/\@WBu-yMi5R62T6i7YA3RGVA/BJtnqIQVR)).
+([hackmd.io/\@WBu-yMi5R62T6i7YA3RGVA/BJtnqIQVR](https://hackmd.io/\@WBu-yMi5R62T6i7YA3RGVA/BJtnqIQVR)).
 This recipe provides step-by-step instructions on choosing appropriate ontology terms to improve KE Component annotation. Current experience indicates that AOP developers often found the process of KE annotation to be complex, which causes the lack of utilisation. This new recipe aims to streamline the process, making it easier to select and apply ontology terms. Proper KE Component annotation enhances AOP discoverability, and broader use of ontologies in AOP-Wiki could support the semi-automated generation of AOP networks and help identify redundant or overlapping KEs. 
 
 The next steps include integrating the "Adding KE Compoonent Annotations in AOP-Wiki" recipe into the FAIR Cookbook, with plans to reference it in the AOP-Wiki's guidance. Further support from the FAIR Cookbook team will facilitate the adoption and refinement of these recipes, promoting their utility across the toxicology community.
 
 ### Metadata for cell-based assays
 
-This recipe, though still a draft, provides a starting point for the consistent and FAIR-compliant metadata annotation of cell-based bioassay types ([https://hackmd.io/\@lusinke/rkXlvLXE0](https://hackmd.io/\@lusinke/rkXlvLXE0)). The starting point is a review of biomedical ontologies and controlled vocabularies and the metadata fields they cover, from the biological aspects of assay samples to assay specifications and analysis-level metadata. The different metadata fields to be annotated with these semantic resources are then divided into required and recommended depending on whether they occur at least in two of the metadata standards enumerated in the recipe.
+This recipe, though still a draft, provides a starting point for the consistent and FAIR-compliant metadata annotation of cell-based bioassay types ([hackmd.io/\@lusinke/rkXlvLXE0](https://hackmd.io/\@lusinke/rkXlvLXE0)). The starting point is a review of biomedical ontologies and controlled vocabularies and the metadata fields they cover, from the biological aspects of assay samples to assay specifications and analysis-level metadata. The different metadata fields to be annotated with these semantic resources are then divided into required and recommended depending on whether they occur at least in two of the metadata standards enumerated in the recipe.
 
 ### Setting up imaging based confocal screening
 
 The third recipe is about standardized protocols for reproducible imaging of eGFP-tagged hiPSC reporter lines
-([https://hackmd.io/MBKglLL3Ri6uiodo46VbJg?both](https://hackmd.io/MBKglLL3Ri6uiodo46VbJg?both)).
+([hackmd.io/MBKglLL3Ri6uiodo46VbJg?both](https://hackmd.io/MBKglLL3Ri6uiodo46VbJg?both)).
 This recipe outlines the essential components required to create a **minimal imaging dataset** that enables
 validation of functional reproducibility of fluorescent eGFP hiPSC reporter lines using confocal imaging
 **across collaborative project partners**. It covers nine points, including a reference compound
@@ -302,14 +305,14 @@ set, metadata, imaging settings, raw data deposition, quality control, and more.
 For the FAIR Implementation Profiles (FIPs), we first looked at the FIP mini questionnaire. During the workshop [@RAa-SA1rYr], two FIPs were
 started: The first FIP was developed for AOPs and the second FIP was developed for 
 toxicogenomics. Generally, filling out the FIP template was not found to be easy
-and both FIPs left a lot of questions unanswered. The in-progress FIPs can be accessed at [@citesAsEvidence:Lynch2024c], to be picked up at a later point in time. As part of this FIP Introduction event, also the FIP wizard (<https://fip-wizard.ds-wizard.org/>) was briefly demonstrated, as it gives more context to the different FAIR principles and their corresponding FERs.
+and both FIPs left a lot of questions unanswered. The in-progress FIPs can be accessed at [@citesAsEvidence:Lynch2024c], to be picked up at a later point in time. As part of this FIP Introduction event, also the FIP wizard ([fip-wizard.ds-wizard.org](https://fip-wizard.ds-wizard.org/)) was briefly demonstrated, as it gives more context to the different FAIR principles and their corresponding FERs.
 
 ### Adverse Outcome Pathways FIP
 
 The AOP FIP is based on the work done by AOP-Wiki. For example, metadata used
 by the AOP-Wiki include an identifier, a title, a contact point, and a license.
 For the interoperability, ontologies like PROV-O [@Sahoo2013], Cell Ontology [@Diehl2016],
-and UBERON <https://uberon.github.io/> were discussed.
+and UBERON ([uberon.github.io](https://uberon.github.io/)) were discussed.
 
 ### Toxicogenomics FIP
 

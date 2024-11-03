@@ -57,6 +57,9 @@ authors:
   - name: Lucy&nbsp;Sinke
     orcid: 0000-0002-9209-1266
     affiliation: 10 
+  - name: Ozan&nbsp;Çınar
+    orcid: 0000-0003-0329-1977 
+    affiliation: 1
   - name: Egon&nbsp;Willighagen
     orcid: 0000-0001-7542-0286
     affiliation: 1
@@ -73,21 +76,21 @@ affiliations:
     index: 5
   - name: Department of Physical Chemistry, Palacký University Olomouc, CZ
     index: 6
-  - name: Heidelberg Institute for Theoretical Studies, Heidelberg, Germany
+  - name: Heidelberg Institute for Theoretical Studies, Heidelberg, DE
     index: 7
-  - name: European Commission, Joint Research Centre (JRC), Ispra, Italy
+  - name: European Commission, Joint Research Centre (JRC), Ispra, IT
     index: 8
-  - name: Stichting Health-RI, Utrecht, The Netherlands
+  - name: Stichting Health-RI, Utrecht, NL
     index: 9
-  - name: Leiden Academic Centre for Drug Research (LACDR), Leiden University, Leiden, The Netherlands
+  - name: Leiden Academic Centre for Drug Research (LACDR), Leiden University, Leiden, NL
     index: 10
-  - name: University of Eastern Finland, Finland
+  - name: University of Eastern Finland, FI
     index: 11
-  - name: University of South Bohemia, Czech Republic
+  - name: University of South Bohemia, CZ
     index: 12
-  - name: RIVM, Bilthoven, Netherlands
+  - name: RIVM, Bilthoven, NL
     index: 13
-  - name: IUF – Leibniz Research Institute for Environmental Medicine, Düsseldorf, Germany
+  - name: IUF – Leibniz Research Institute for Environmental Medicine, Düsseldorf, DE
     index: 14
 date: 29 May 2024
 cito-bibliography: paper.bib
@@ -374,11 +377,15 @@ NON-ACADEMIC TOXICOLOGY/RISK ASSESSMENT IS CONSERVATIVE AND MATTERS WILL ONLY CH
 
 This workshop was funded by the ELIXIR Europe INTOXICOM grant (Grant No. NL-2023-INTOXICOM).
 Participants acknowledge funding from
+CHIASMA (Grant agreement No. 101137613),
 PARC (Grant agreement No. 101057014 and UKRI Grant No. 1752317),
 WorldFAIR (Grant agreement No. 101058393 and UKRI Grant No. 1831977),
 PINK (Grant agreement No. 101137809) and UKRI Grant No. 10097944),
 RISKHUNT3R (Grant agreement No. 964537),
-and SysBioTop-Moving grant from ZonMw (Grant greement No. 20190702211652).
-The VHP4Safety project is funded by the Netherlands Research Council (NWO) (Grant No. NWA-ORC 1292.19.272).
+Research without Animals (Grant agreement No. F2022-0003),
+ELIXIR Data Platform, Stichting Health-RI, EFSA,
+de.NBI (Grant agreement No. BMBF 031A540),
+and SysBioTop-Moving grant from ZonMw (Grant agreement No. 20190702211652).
+The VHP4Safety project is funded by the Netherlands Research Council (NWO) (Grant agreement No. NWA-ORC 1292.19.272).
 
 ## References

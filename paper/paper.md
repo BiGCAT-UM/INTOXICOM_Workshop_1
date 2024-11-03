@@ -269,7 +269,7 @@ This problem statement led to a recap of some instances of spreadsheet template-
 
 ## FAIRification recipes
 
-Following an introduction to the FAIR Cookbook concepts, the workshop participants collaborated to develop three new FAIRification recipes, with one currently in private status: "Adding KE Component annotations in AOP-Wiki", "Metadata for cell-based assays using BAO", and "Setting up imaging based confocal screening". These recipe drafts are designed to support the toxicology community in implementing FAIR principles in specific data contexts.
+Following an introduction to the FAIR Cookbook concepts, the workshop participants collaborated to develop three new FAIRification recipes: "Adding KE Component annotations in AOP-Wiki", "Metadata for cell-based assays using BAO", and "Setting up imaging based confocal screening". These recipe drafts are designed to support the toxicology community in implementing FAIR principles in specific data contexts.
 
 <!-- [RS CAN THE OWNERS OF THE RECEPIES PERHAPS PROVIDE SOME MORE DETAILS HERE, WITH SUGGESTION: TOGETHER WITH A REFLECTION ON HOW EASY IT WAS TO ADOPT THE FAIR COOKBOOK PRINCIPLE IN THEIR WORK?] -->
 

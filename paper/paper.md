@@ -45,7 +45,7 @@ authors:
   - name: Uday Killi
     orcid: 0000-0001-6267-7541
     affiliation: 11, 12
-  - name: Jente Houweling
+  - name: Jente\,Houweling
     orcid: 0009-0005-3680-0645
     affiliation: 1, 13
   - name: Riju&nbsp;Roy&nbsp;Chowdhury

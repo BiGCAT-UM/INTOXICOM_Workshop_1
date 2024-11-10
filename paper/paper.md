@@ -388,6 +388,8 @@ WorldFAIR (Grant agreement No. 101058393 and UKRI Grant No. 1831977),
 PINK (Grant agreement No. 101137809) and UKRI Grant No. 10097944),
 RISKHUNT3R (Grant agreement No. 964537),
 Research without Animals (Grant agreement No. F2022-0003),
+GACR (Grant Agreement No. 24-11986S),
+Palacky University (Grant Aggreement ID: IGA\_PrF\_2024_017)
 ELIXIR Data Platform, Stichting Health-RI, EFSA,
 de.NBI (Grant agreement No. BMBF 031A540),
 and SysBioTop-Moving grant from ZonMw (Grant agreement No. 20190702211652).

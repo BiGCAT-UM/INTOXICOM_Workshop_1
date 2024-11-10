@@ -309,7 +309,7 @@ and both FIPs left a lot of questions unanswered. The in-progress FIPs can be ac
 
 ### Adverse Outcome Pathways FIP
 
-The AOP FIP is based on the work done by AOP-Wiki. For example, metadata used
+The AOP FIP is based on the work done by AOP-Wiki [@AOPFIP]. For example, metadata used
 by the AOP-Wiki include an identifier, a title, a contact point, and a license.
 For the interoperability, ontologies like PROV-O [@Sahoo2013], Cell Ontology [@Diehl2016],
 and UBERON ([obophenotype.github.io/uberon/](https://obophenotype.github.io/uberon/)) were discussed.

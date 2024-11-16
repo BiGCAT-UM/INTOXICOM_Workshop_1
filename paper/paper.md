@@ -57,7 +57,7 @@ authors:
   - name: Lucy&nbsp;Sinke
     orcid: 0000-0002-9209-1266
     affiliation: 10 
-  - name: Ozan&nbsp;Çınar
+  - name: Ozan&nbsp;Cinar
     orcid: 0000-0003-0329-1977 
     affiliation: 1
   - name: Egon&nbsp;Willighagen
